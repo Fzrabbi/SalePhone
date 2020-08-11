@@ -14,8 +14,10 @@ const Header = (props) => {
         <a href='#'>About</a>
         <a href='#'>Contact</a>
       </nav>
-      <div>
-        Social Media Links
+      <div className="socialMediaIconscon">
+            <img src="https://image.flaticon.com/icons/svg/733/733547.svg" alt=""/>
+            <img src="https://image.flaticon.com/icons/svg/733/733558.svg" alt=""/>
+            <img src="https://image.flaticon.com/icons/svg/733/733579.svg" alt=""/>
       </div>
     </header>
    )

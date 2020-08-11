@@ -6,6 +6,7 @@ import Hero from './components/Hero';
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Contact from './container/Contact';
 import Post from './container/Post';
+import Products from './container/Products';
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
         <Hero/>
         <Route path="/" exact component={Home}/>
         <Route path="/contact-us" component={Contact}/>
-        <Route path="/post" component={Post}/>
+        <Route path="/post/:postId" component={Post}/>
+        <Route path="/products" component={Products}/>
     </div>
     </Router>
   );

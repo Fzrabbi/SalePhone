@@ -1,0 +1,27 @@
+.commentbox{
+    text-align: center;
+    margin: 10px 0px;
+}
+.makecomment{
+    text-align: center;
+    margin: 10px 0px;
+}
+.commentinput{
+    border: 0;
+    width: 600px;
+    height: 25px;
+    text-align: center;
+}
+.commentinput:focus{
+    outline: none;
+}
+.submitchIcon{
+    cursor: pointer;
+}
+.commentSubmit{
+    text-align:center;
+}
+.commentSubmit form{
+    display: flex;
+    margin: 0 10px;
+}

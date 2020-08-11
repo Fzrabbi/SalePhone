@@ -23,6 +23,9 @@ font-weight: 400;
 color: cadetblue;
 padding: 0 10px;
 }
+.navbar ul li :hover{
+    color: aqua;
+    }
 .search form{
     display: flex;
     margin: 0 10px;

@@ -1,0 +1,30 @@
+.productcard{
+    display:flex;
+    justify-content:space-between;
+    margin: 20px 20px;
+    text-align: center;
+    width: 25%;
+}
+.productcard a{
+    font-size: 14px;
+    text-transform: capitalize;
+    color: slategray;
+}
+.productcard img{
+    width: 100%;
+   
+}
+.productcard span{
+    font-size: 14px;
+    color: tomato;
+    
+}
+.grow{
+    border-radius: 20px;
+}
+.grow:hover{
+    transform: scale(1.5);
+    -webkit-transform: scale(1.06);
+    -ms-transform: scale(1.5);
+   
+}

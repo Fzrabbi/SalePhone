@@ -16,3 +16,14 @@
 .headerMenu a:hover{
     color: aqua;
 }
+.socialMediaIconscon{
+    width: 3%;
+    display:flex;
+    justify-content:space-between;
+}
+.socialMediaIconscon img{
+    max-width: 45%;
+    max-height: 45%;
+    margin:3px 0;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.homeblogPostContainer{
+    width:100%;
+    
+}
+.homeblogHeader{
+    text-align: center;
+}
+.homepostTitle{
+    letter-spacing:0.5px;
+    text-transform: capitalize;
+    font-size: 30 px;
+    margin: 0;
+}
+.homepostImageContainer{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.homepostImageContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    padding: 20px 0;
+    
+}
+.homepostImageContainer span{
+    font-size: 15px;
+    color: slategrey;
+}
+.homeContainer{
+    display:flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    text-align: center;
+}

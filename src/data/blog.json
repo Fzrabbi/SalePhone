@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "I phone 32k Gold eidtion",
+            "slug": "fitness-mantra-to-live-fit-life",
+            "postedOn": "July 21, 2016",
+            "author": "Ratul Sekh",
+            "blogImage": "18k-solid-gold-iphone-11-pro.jpg",
+            "blogText": "The first custom iPhone X models were revealed today with prices ranging from $7.5k to $70k. These are no ordinary iPhone units, of course, they’re made with custom exteriors made from varied amounts of precious materials, all from the company called Brikk. Some are made with gold, some feature diamond inlays, and all come packaged in a custom aluminum case lined with carbon fiber and leather.To be entirely clear, here: it’s unlikely the folks at Brikk have access to finalized straight-from-Apple models of the smartphone yet. It’s also unlikely that the renderings they’re working with here are 100% accurate. What they likely DO have is a good enough idea of what it’ll cost them to create these customized designs. They have enough information to make the models you see here."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "Apple Iphone 11 is here",
+            "slug": "beautiful-and-special-moment",
+            "postedOn": "May 03, 2016",
+            "author": "Rajib ahmmed",
+            "blogImage": "Apple-iPhone-11-Pro-Midnight-Green-frontimage.jpg",
+            "blogText": "Apple has segregated the two models of the iPhone 11 according to the camera features they offer. The Pro models contain much more than just a third camera, but that additional camera is the most obvious difference. And here, Apple has made an interesting separation. With previous two-camera iPhones, you had a standard lens and a telephoto lens to zoom in on distant subjects. Now, the two-camera model, the iPhone 11, has a wide and an ultra-wide lens; the Pro models have all three: ultra-wide, wide, and telephoto."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "Cool designed xiaomi redmi note 9s ",
+            "slug": "beauti-lies-within-special",
+            "postedOn": "Apr 02, 2017",
+            "author": "Shaikh shahid",
+            "blogImage": "xiaomi_redmi_note_9s.jpg",
+            "blogText": "Featuring an impressive quad-camera setup in the rear, Redmi Note 9 Pro’s 64MP main lens captures crisp, ultra-high resolution images in all lighting conditions while its 8MP ultra wide -angle lens enables stunning large group images without compromise. A 5MP macro lens and 2MP depth sensor round out the rear camera, letting users take stunning close-up shots with fantastic bokeh. On the front, Redmi Note 9 Pro sports a 16MP in-display camera for high-quality selfies. Its new slow motion selfie mode captures hilarious slow-motion videos — perfect for social media."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "Buy the Glory with Xiaomi redmi 9",
+            "slug": "sliding-my-way-to-life",
+            "postedOn": "Jan 02, 2019",
+            "author": "Suprita",
+            "blogImage": "Xiaomi-Redmi-9-Official-image.jpg",
+            "blogText": "Redmi Note series has been offering some of the most incredible mid-range smartphones on the market, with over 110 million1 Redmi Note units sold across the globe. Together with the recently launched Redmi Note 9S, the new Redmi Note smartphone lineup continues to flaunt cutting edge design and innovation without the flagship price point."
+        }
+    ]
+}
